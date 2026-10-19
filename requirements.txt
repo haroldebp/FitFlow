@@ -1,0 +1,8 @@
+fastapi>=0.110
+uvicorn[standard]>=0.29
+yt-dlp
+openai-whisper
+anthropic>=0.40
+python-dotenv>=1.0
+pillow>=10.0
+requests>=2.31
